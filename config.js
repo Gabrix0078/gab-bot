@@ -4,7 +4,7 @@ import fs from 'fs'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
+  ['4215723043454', 'gab💋', true],
   ['xxxxxxxxxx',],
   //['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
@@ -15,7 +15,7 @@ global.owner = [
 //════════════ •⊰✧⊱• ════════════
 
 global.mods = ['xxxxxxxxxx'] 
-global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
+global.prems = ['421572304345', 'xxxxxxxxxx']
 
 //════════════ •⊰✧⊱• ════════════
 
